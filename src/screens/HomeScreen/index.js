@@ -118,14 +118,14 @@ export default function HomeScreen() {
               sm: theme.space.x12,
             },
             paddingVertical: {
-              md: theme.space.x20,
-              lg: theme.space.x24,
+              md: theme.space.x22,
+              lg: theme.space.x10,
             },
           }}
         >
           <Box
             styleSheet={{
-              marginHorizontal: 'auto',
+              marginHorizontal: "50px",
               paddingHorizontal: {
                 xs: theme.space.x4,
                 sm: theme.space.x6,
