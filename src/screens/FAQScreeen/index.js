@@ -169,7 +169,7 @@ export default function FAQScreen() {
                   >
                     Bruce Wayne mostra-se à sociedade como um playboy irresponsável e superficial rico, porém ele também é conhecido por contribuir para a caridade através da Fundação Wayne para ajudar vítimas de crimes e impedir a entrada no crime de jovens. Essa personalidade foi criada para que as pessoas não desconfiassem de seu alter ego.
 
-                    Enquanto Bruce Wayne é despreocupado e irresponsável, Batman é frio, determinado e implacável. Além do uniforme e da máscara, quando Batman, Wayne altera sua voz para ficar cada vez mais irreconhecível.
+                    Enquanto Bruce Wayne é despreocupado e irresponsável, Batman é frio, determinado e implacável. Além do uniforme e da máscara, quando Batman, Wayne altera sua voz para ficar cada vez mais irreconhecível!
                   </Text>
                   
                 </Box>
