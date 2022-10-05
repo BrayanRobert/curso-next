@@ -136,6 +136,7 @@ export default function FAQScreen() {
                     styleSheet={{
                       textVariant: theme.typography.variants.heading4,
                       color: theme.colors.neutral[900],
+                      marginTop: theme.space.x8,
                     }}
                   >
                     Como ele combate o crime?
@@ -155,6 +156,7 @@ export default function FAQScreen() {
                     styleSheet={{
                       textVariant: theme.typography.variants.heading4,
                       color: theme.colors.neutral[900],
+                      marginTop: theme.space.x8,
                     }}
                   >
                     Como Batman se mostra na sociedade?
